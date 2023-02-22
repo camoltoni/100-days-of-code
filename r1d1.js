@@ -1,6 +1,5 @@
 function myReplace(str, before, after) {
   let index = str.toLowerCase().indexOf(before.toLowerCase())
-  console.log(index)
   let word = str.slice(index, index + before.length)
   if(word[0] == word[0].toUpperCase())
     after = after[0].toUpperCase() + after.slice(1)
