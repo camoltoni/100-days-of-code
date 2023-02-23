@@ -11,4 +11,4 @@ Using Javascript replace words with lower or upper case
 Using Javascript to create DNA pair from a string
 
 ### R3D3
-Using Javascript find missing letter in an ordered string
+Using Javascript find missing letter in a sorted string
