@@ -10,8 +10,10 @@ function pairElement(str) {
     }, Array())
 }
 
-let text2 = pairElement("GCG");
-
-let result2 = document.getElementById("result")
-result2.innerHTML += `<h4>Day 2: ${text2}</h4>`
-result2.innerHTML += "<quote>Create DNA pairs.</quote>"
+{
+  let text = pairElement("GCG");
+  
+  let result = document.getElementById("result")
+  result.innerHTML += `<h4>Day 2: ${text}</h4>`
+  result.innerHTML += "<quote>Create DNA pairs.</quote>"
+}

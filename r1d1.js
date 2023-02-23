@@ -6,7 +6,10 @@ function myReplace(str, before, after) {
   
   return str.slice(0, index) + after + str.slice(index + before.length)
 }
-let text = myReplace("His name is Tom", "Tom", "john")
-let result = document.getElementById("result")
-result.innerHTML = `<h4>Day 1: ${text}</h4>`
-result.innerHTML += "<quote>Description: replace with upper lowercase</quote>"
+
+{
+  let text = myReplace("His name is Tom", "Tom", "john")
+  let result = document.getElementById("result")
+  result.innerHTML = `<h4>Day 1: ${text}</h4>`
+  result.innerHTML += "<quote>Description: replace with upper lowercase</quote>"
+}
