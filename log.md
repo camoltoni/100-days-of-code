@@ -15,3 +15,6 @@ Using Javascript find missing letter in a sorted string
 
 ### R1D4
 Using Javascript to get the sorted union of two or more arrays
+
+### R1D5
+Using Javascript to replace special characters to HTML entities
