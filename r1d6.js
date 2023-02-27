@@ -3,7 +3,6 @@ function sumFibs(num) {
   let b = 1
   let result = 0
   while(a+b <= num) {
-    console.log(b)
     let x = b
     b = a + b
     a = x
@@ -16,10 +15,8 @@ function sumFibs(num) {
 
 
 {
-  console.log(sumFibs(75025))
-
-  let text = ""
+  let text = sumFibs(1000)
   let result = document.getElementById("result")
-  result.innerHTML += `<h4>Day 5: ${text}</h4>`
-  result.innerHTML += "<quote>Replace special characters to HTML entities</quote>"
+  result.innerHTML += `<h4>Day 6: ${text}</h4>`
+  result.innerHTML += "<quote>Sum odds Fibonacci numbers below a max</quote>"
 }

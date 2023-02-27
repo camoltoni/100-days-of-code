@@ -18,3 +18,9 @@ Using Javascript to get the sorted union of two or more arrays
 
 ### R1D5
 Using Javascript to replace special characters to HTML entities
+
+### R1D6:
+Using Javascript to sum odds Fibonacci numbers below a max
+
+### R1D7
+Using JavaScript to sum prime numbers below a max
