@@ -24,3 +24,6 @@ Using Javascript to sum odds Fibonacci numbers below a max
 
 ### R1D7
 Using JavaScript to sum prime numbers below a max
+
+### R1D8
+Get the smallest common multiple of a range of numbers
