@@ -1,29 +1,30 @@
-#100DaysOfCode Log - Round 1 - César Moltoni
+# 100 Days Of Code - Log
 
-The log of my #100DaysOfCode challenge. Started on ***February 21, of 2023.***
+### Day 0: February 30, 2016 (Example 1)
+##### (delete me or comment me out)
 
-## Log
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-### R1D1 
-Using Javascript replace words with lower or upper case
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-### R1D2
-Using Javascript to create DNA pair from a string
+**Link to work:** [Calculator App](http://www.example.com)
 
-### R1D3
-Using Javascript find missing letter in a sorted string
+### Day 0: February 30, 2016 (Example 2)
+##### (delete me or comment me out)
 
-### R1D4
-Using Javascript to get the sorted union of two or more arrays
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-### R1D5
-Using Javascript to replace special characters to HTML entities
+**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-### R1D6:
-Using Javascript to sum odds Fibonacci numbers below a max
+**Link(s) to work**: [Calculator App](http://www.example.com)
 
-### R1D7
-Using JavaScript to sum prime numbers below a max
 
-### R1D8
-Get the smallest common multiple of a range of numbers
+### Day 1: June 27, Monday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
